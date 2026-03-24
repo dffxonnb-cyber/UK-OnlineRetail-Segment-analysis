@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (용량 큰 CSV는 저장소 제외, README 출처 참고)
+데이터셋/*.csv
+데이터셋/*.xlsx
+분석 과정/*.csv
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
