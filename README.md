@@ -88,6 +88,7 @@ python run_pipeline.py --clear-artifacts --stop-on-error
 
 - `run_pipeline.py`는 원본 노트북을 수정하지 않고 실행본과 로그를 `artifacts/`에 저장합니다.
 - 자세한 옵션과 저장소 정리 기준은 [AUTOMATION_GUIDE.md](./AUTOMATION_GUIDE.md)에서 확인할 수 있습니다.
+- 공개 검증 범위, CI 명령, 원본 데이터 경계는 [VERIFY.md](./VERIFY.md)에 정리했습니다.
 
 ## 노트북 기준 실행 방법
 
