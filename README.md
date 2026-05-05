@@ -1,5 +1,9 @@
 # UK 온라인 리테일 고객 세그먼트 분석
 
+[![Verify](https://github.com/dffxonnb-cyber/UK-OnlineRetail-Segment-analysis/actions/workflows/verify.yml/badge.svg)](https://github.com/dffxonnb-cyber/UK-OnlineRetail-Segment-analysis/actions/workflows/verify.yml)
+[![Pareto](https://img.shields.io/badge/top%2020%25%20revenue-73.5%25-2563eb)](./docs/PPT_Retail.md)
+[![Stat Tests](https://img.shields.io/badge/ANOVA%20%2F%20Kruskal-p%3C0.001-0f766e)](./docs/PPT_Retail.md)
+
 온라인 리테일 거래 데이터를 기반으로 고객 가치를 세분화하고, 실제 마케팅 예산을 어디에 집중해야 하는지 정리한 CRM 분석 프로젝트입니다.  
 핵심은 `고객 분류` 자체보다 `누구에게 먼저 액션해야 하는가`를 데이터로 설명한 점입니다.
 
